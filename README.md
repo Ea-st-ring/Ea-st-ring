@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Ea-st-ring/Ea-st-ring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ea-st-ring&show_icons=true&theme=github_dark)
-<a href="https://blog.naver.com/dpwk37" target="_blank"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M16.273 12.845 7.376 0H0v24h7.726V11.156L16.624 24H24V0h-7.727v12.845Z"/></svg></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=200&section=header&fontAlignY=30&fontAlign=17&fontColor=fff&text=Ea_st_ring&stroke=fff&fontSize=44&desc=@FE%20Developer&animation=fadeIn&descAlignY=50&descAlign=13&descSize=20)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ea-st-ring&show_icons=true&theme=radical&title_color=fff&hide=prs,issues)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Ea-st-ring/Ea-st-ring/edit/main/README.md))
